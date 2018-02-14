@@ -9,7 +9,7 @@ body, html{
   color:#666;
 }
 .background{
-  background-image:url('../img/pushbike.jpg');
+  background-image:url('pushbike.jpg');
   min-height:100%;
   position:relative;
   opacity:0.70;
